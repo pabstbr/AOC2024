@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-inputFile = open('../resources/PuzzleInput/Day1Input')
+inputFile = open('Day1Input')
 
 
 def read_file():
